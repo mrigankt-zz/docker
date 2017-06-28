@@ -2,7 +2,7 @@
 FROM node:4-onbuild
 
 # set maintainer
-LABEL maintainer "mrigank@infoobjects.com"
+LABEL maintainer "xyz@xyz.com"
 
 # set a health check
 HEALTHCHECK --interval=5s \
